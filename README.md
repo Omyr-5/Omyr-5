@@ -1,4 +1,4 @@
-<h4 align="left">Umair Munawar, a frontend Web Application developer from Pakistan, specializes in crafting engaging web experiences with React, JavaScript, and CSS. With a keen eye for detail, he excels in implementing complex functionality and delivering pixel-perfect designs. Passionate about creating intuitive applications, I am dedicated to exceeding expectations and collaborating on innovative projects.</h4>
+<h4 align="left">Umair Munawar, a frontend Web Application developer from Pakistan, specializes in crafting engaging web experiences with React, JavaScript, and CSS. With a keen eye for detail, I excels in implementing complex functionality and delivering pixel-perfect designs. Passionate about creating intuitive applications, I am dedicated to exceeding expectations and collaborating on innovative projects.</h4>
 
 ###
 

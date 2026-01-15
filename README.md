@@ -43,10 +43,6 @@ Senior Frontend Developer with 3+ years of experience building scalable, product
 
 ---
 
-### 📫 Connect
-<a href="mailto:umairmunawar536@gmail.com">Email</a> • 
-<a href="https://www.linkedin.com/in/umair-munawar536/">LinkedIn</a> • 
-<!-- <a href="https://github.com/Omyr-5">GitHub</a> -->
 
 ###
 
@@ -107,7 +103,8 @@ Senior Frontend Developer with 3+ years of experience building scalable, product
 </div>
 
 
-###
+### 📫 Connect
+
 
 <div align="left">
   <a href="mailto:umairmunawar536@gmail.com" target="_blank">

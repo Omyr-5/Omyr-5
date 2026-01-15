@@ -4,8 +4,8 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Omyr-5&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Stats" height="120" alt="stats graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=Omyr-5&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omyr-5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=Languages" height="120" alt="languages graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=Omyr-5&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="120" alt="streak graph"  /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omyr-5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=Languages" height="120" alt="languages graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omyr-5&area=true&theme=elegant&bg_color=151515&color=d7d7d7&title_color=d7d7d7&line=fb8c00&radius=0&custom_title=Contribution%20Graph&hide_border=true&hide_title=false" height="391" alt="activity-graph graph"  />
 </div>
 

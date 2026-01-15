@@ -1,4 +1,52 @@
-<h4 align="left">Umair Munawar, a Frontend web application developer from Pakistan, specializes in crafting engaging web experiences with React, JavaScript, and CSS. With a keen eye for detail, I excels in implementing complex functionality and delivering pixel-perfect designs. Passionate about creating intuitive applications, I am dedicated to exceeding expectations and collaborating on innovative projects.</h4>
+<h3 align="left">Umair Munawar</h3>
+<h4 align="left">
+Senior Frontend Developer • React / Next.js / TypeScript 
+</h4>
+
+<p align="left">
+Senior Frontend Developer with 3+ years of experience building scalable, production-grade web and mobile applications. I work across enterprise, government, AI-driven, and eCommerce platforms, focusing on performance, accessibility, and clean frontend architecture.
+</p>
+
+---
+
+### 🧠 What I Do
+- Build scalable frontend systems using **React, Next.js, and React Native**
+- Design **reusable UI libraries, dashboards, and complex workflows**
+- Optimize performance with **code splitting, lazy loading, and SSR**
+- Implement **accessible (WCAG-compliant)** and responsive interfaces
+- Collaborate in **Agile teams** delivering production-ready software
+
+---
+
+### 🛠 Tech Stack
+**Frontend:** React.js, Next.js, Vue.js, React Native, TypeScript, JavaScript  
+**State & Data:** Redux Toolkit, React Query, Context API, Pinia  
+**UI & Styling:** Tailwind CSS, Sass, Styled Components, Material UI, Storybook  
+**APIs & Services:** REST APIs, GraphQL (fundamentals), Firebase, Stripe  
+**Performance & Quality:** Lazy Loading, Code Splitting, SSR, Jest, RTL  
+**Tools:** Git, GitHub Actions, Figma, Jira, Notion, PostHog
+
+---
+
+### 🏗 Selected Work
+- **UAE Government Systems** – Scalable dashboards, dynamic form builders, compliance-ready UIs  
+- **AI Platforms** – RFP automation, project management, AI-assisted design workflows  
+- **eCommerce & Mobile Apps** – Payments, real-time features, and cross-platform UI consistency  
+
+---
+
+### 📈 Engineering Focus
+- Clean component architecture & maintainable codebases  
+- Performance optimization for real-world user traffic  
+- Accessibility, UX consistency, and design-system thinking  
+- Shipping reliable features in high-stakes environments  
+
+---
+
+### 📫 Connect
+<a href="mailto:umairmunawar536@gmail.com">Email</a> • 
+<a href="https://www.linkedin.com/in/umair-munawar536/">LinkedIn</a> • 
+<!-- <a href="https://github.com/Omyr-5">GitHub</a> -->
 
 ###
 
@@ -12,28 +60,52 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+
+  <!-- Frontend Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Native" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+
+  <!-- State Management -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux Toolkit" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+
+  <!-- Markup & Styling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="Material UI" />
+  <img width="12" />
+
+  <!-- Backend & Services -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  <img width="12" />
+
+  <!-- Tooling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+
 </div>
+
 
 ###
 
